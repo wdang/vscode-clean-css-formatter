@@ -13,6 +13,11 @@ Format and minify css into smaller readable css with using clean-css formatter
 
 ![Demo](https://github.com/wdang/vscode-clean-css-formatter/blob/master/preview.gif?raw=true)
 
+## Usage Notes
+Comment with an ! to preserve comments. ie:
+```
+/*! Preserved comment  */
+```
 
 ## Release Notes
 
