@@ -1,12 +1,19 @@
+<h1 align="center">
+  <br>
+    <img src="https://github.com/wdang/vscode-clean-css-formatter/blob/master/icon.png?raw=true" alt="logo" width="256">
+  <br>
+  VSCode CSS Formatter
+  <br>
+  <br>
+</h1>
+
 # VSCode CSS Formatter
 
 Format and minify css into smaller readable css with clean-css formatter
 
 ## Features
 
-
-\!\[feature X\]\(preview.gif\)
-
+![Demo](https://github.com/wdang/vscode-clean-css-formatter/blob/master/preview.gif?raw=true)
 
 ## Requirements
 
